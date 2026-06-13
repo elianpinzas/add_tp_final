@@ -1,4 +1,4 @@
-name: add-env
+name: tpfinal-grupo11-add-env
 channels:
   - conda-forge
   - defaults
@@ -18,3 +18,5 @@ dependencies:
   - category_encoders
   - nltk
   - umap-learn
+  - geopandas
+  - statsmodels
